@@ -139,8 +139,8 @@ Overfitting handling
 
 Deployment-ready ML pipeline
 
-👨‍💻 Author
 
+👨‍💻 Author
 Harshdeep Srivastava
 B.Tech CSE (AI)
 Deep Learning & Computer Vision Enthusiast
