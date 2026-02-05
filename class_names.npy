@@ -1,0 +1,12 @@
+Stores class labels
+Example:
+
+['Pepper_bell___Bacterial_spot', 'Tomato___Healthy', ...]
+
+
+Used during prediction to map:
+index → disease name
+
+
+Otherwise model only outputs numbers like:
+class 7
