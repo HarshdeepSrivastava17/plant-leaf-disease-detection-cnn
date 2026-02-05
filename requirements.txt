@@ -1,0 +1,7 @@
+List of libraries needed
+Contains:
+tensorflow
+numpy
+matplotlib
+pillow
+kagglehub
