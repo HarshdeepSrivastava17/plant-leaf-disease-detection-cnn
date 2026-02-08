@@ -103,7 +103,6 @@ pip install -r requirements.txt
 Run training
 python plant_disease_model.py
 
-
 OR open in Google Colab.
 
 📦 Dataset
